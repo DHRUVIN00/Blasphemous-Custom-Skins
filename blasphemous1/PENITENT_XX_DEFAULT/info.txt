@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_XX_DEFAULT",
+  "name": "Berserker",
+  "author": "Dhruvin",
+  "version": "1.0.0"
+}
